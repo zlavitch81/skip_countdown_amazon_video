@@ -23,3 +23,4 @@ var skiptimer = function ()
 		
 	}
 }
+skiptimer()
