@@ -1,9 +1,3 @@
-// ==UserScript==
-// @name 		Skip Amazon Video Countdown
-// @include		*://amazon.*/*
-// @require		https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js
-// ==/UserScript==
-
 var skiptimer = function ()
 {
 	if (document.getElementsByClassName("playIconWrapper").length == 0)
